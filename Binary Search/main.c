@@ -8,6 +8,7 @@
 
 #include <stdio.h>
 
+//part 2 is not fully completed
 
 int binarySearch(int value, int numbers[], int minIndex, int maxIndex) {
     if (minIndex > maxIndex) {
