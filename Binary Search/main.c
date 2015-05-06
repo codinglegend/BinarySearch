@@ -25,6 +25,9 @@ int binarySearch(int value, int numbers[], int minIndex, int maxIndex) {
     }
 }
 
+    typedef struct{int firstIndexPosition; int numberOfOccurences;
+    }MultipleIndices;
+
 int main()
 {
     int an_array[] = {2, 4, 6, 8, 10};
@@ -32,9 +35,18 @@ int main()
     int arraySize = sizeof(an_array)/sizeof(int);
     
     int result = binarySearch(6, an_array, 0, arraySize);
-    printf("%d\n", result);
-    // binarySearch returns the index of the target value
+    
+    for (int i=0; i < arraySize +1; i++)
+        if (an_array[result+1] == an_array[result]){
+            i+=1;
+        }else{
+            printf("%d\n",i);
+//            i = numberOfOccurences;
+            break;
+        }
+    
+
     return 0;
 }
 
-
+//     binarySearch returns the index of the target value

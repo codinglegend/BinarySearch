@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1F8FB69-F30F-466D-821E-FA183AD22DCD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Binary Search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27335066CE9ADE440F63AE70967C93D661A5FF9E</key>
+		<string>https://github.com/codinglegend/binarysearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Binary Search.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27335066CE9ADE440F63AE70967C93D661A5FF9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/codinglegend/binarysearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27335066CE9ADE440F63AE70967C93D661A5FF9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27335066CE9ADE440F63AE70967C93D661A5FF9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BinarySearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
